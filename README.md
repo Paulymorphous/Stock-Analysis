@@ -1,1 +1,3 @@
 # Stock-Analysis
+
+Group Members:
